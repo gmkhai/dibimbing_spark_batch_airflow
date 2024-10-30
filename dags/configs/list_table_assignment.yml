@@ -1,0 +1,7 @@
+etls:
+  - table: olist_order_payments
+    path: /spark-scripts/etl/assignment_etl_order_payments.py
+  - table: olist_customers
+    path: /spark-scripts/etl/assignment_etl_customers.py
+  - table: olist_orders
+    path: /spark-scripts/etl/assignment_etl_orders.py

@@ -1,0 +1,10 @@
+Case:
+    Team marketing e-commerce ingin memberikan penawaran khusus untuk wilayah sao paolo
+    berupa diskon order tergantung pada metode pembayaran (payment_type).
+    untuk metode pembayaran yang paling tertinggi nilai transaksi pembayaran nanti yang akan mendapatkan diskon order
+    Syarat diberikan diskon berdasarkan berapa banyak status order yang telah delivered
+
+Using Data:
+    - data/olist/olist_order_payments_dataset.csv
+    - data/olist/olist_customers_dataset.csv
+    - data/olist/olist_orders_dataset.csv
